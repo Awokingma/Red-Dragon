@@ -29,8 +29,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94710903419'] // owner number
+global.ownername = "*ʜᴀʀꜱʜᴀ ᴍᴀᴅʜᴜꜱʜᴀɴᴋᴀ ʙᴏᴛ ®☘️*බෝ̶ධි̶ස̶ත̶්ව̶යෙ̶ක̷් නෙ̶මේ̷ ය̶ථා̶ර̶්ත̶ය̸ තේ̶රු̶ම̸් ග̶ත̸් කා̶ල̶ක̶න̶්ණි̶යෙ̶ක̶̸් :| 🧘⃙̸̶̸⃕⃝🌺⃓⃧⃞̶🪄⃙⃓⃮⃗" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -44,19 +44,19 @@ global.antibad = "false" // To remove bad word senders
 global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "true" // bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+94710903419']
+global.ownertag = '+94710903419' //your tag number
+global.botname = '*ʜᴀʀꜱʜᴀ ᴍᴀᴅʜᴜꜱʜᴀɴᴋᴀ ʙᴏᴛ ®☘️*' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
+global.author = "*ʜᴀʀꜱʜᴀ ᴍᴀᴅʜᴜꜱʜᴀɴᴋᴀ ʙᴏᴛ ®☘️*" // sticker author
+global.dragonemoji = '☘️' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94710903419'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
